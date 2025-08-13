@@ -1,15 +1,15 @@
 {
   "ultraviolet": "Ultraviolet",
 
-  "pages.home": "Página principal | Pyrus",
-  "pages.games": "Jogos | Pyrus",
-  "pages.settings": "Definições | Pyrus",
+  "pages.home": "Página principal | Vboi's Games",
+  "pages.games": "Jogos | Vboi's Games",
+  "pages.settings": "Definições | Vboi's Games",
 
-  "nav.brand": "Pyrus",
+  "nav.brand": "Vboi's Games",
   "nav.games": "Jogos",
   "nav.settings": "Definições",
 
-  "menu.welcome": "Bem-vindo ao Pyrus",
+  "menu.welcome": "Bem-vindo ao Vboi's Games",
   "menu.search": "Pesquisar na internet...",
 
   "faq.title": "Perguntas frequentes",
@@ -20,17 +20,17 @@
   "faq.noBareClients": "O que significa \"there are no bare clients\"?",
   "faq.noBareClients.answer": "Existem alguns motivos pelos quais este erro ocorre, mas geralmente deve-se a uma falha ao carregar o proxy. Tente recarregar a página e, caso o problema persiste, abra uma issue no GitHub!",
 
-  "faq.contributeToPyrus": "Como posso contribuir para Pyrus?",
-  "faq.contributeToPyrus.answer.segment1": "Divulgar Pyrus é suficiente, mas, se gostares bastante do Pyrus e quiseres links privados, considera apoiar-me pelo Patreon!",
+  "faq.contributeToPyrus": "Como posso contribuir para Vboi's Games?",
+  "faq.contributeToPyrus.answer.segment1": "Divulgar Vboi's Games é suficiente, mas, se gostares bastante do Vboi's Games e quiseres links privados, considera apoiar-me pelo Patreon!",
   "faq.contributeToPyrus.answer.patreonLinkText": "Podes apoiar-me aqui!",
-  "faq.contributeToPyrus.answer.segment2": "Obrigado por ajudar a tornar o Pyrus excelente!",
+  "faq.contributeToPyrus.answer.segment2": "Obrigado por ajudar a tornar o Vboi's Games excelente!",
 
-  "footer.brand": "Pyrus",
+  "footer.brand": "Vboi's Games",
   "footer.madeWithLove": "Feito com ❤️ por wearr",
   "footer.poweredBy": "Titanium Network",
   "footer.services": "Serviços",
   "footer.socials": "Redes sociais",
-  "footer.aluProject": "Projeto Pyrus",
+  "footer.aluProject": "Projeto Vboi's Games",
 
   "games.title": "Jogos",
   "games.search": "Pesquisa...",
