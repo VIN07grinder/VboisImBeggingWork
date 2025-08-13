@@ -1,11 +1,11 @@
 {
   "ultraviolet": "Ultraviolet",
 
-  "pages.home": "ホーム | Pyrus",
-  "pages.games": "ゲーム | Pyrus",
-  "pages.settings": "設定 | Pyrus",
+  "pages.home": "ホーム | Vboi's Games",
+  "pages.games": "ゲーム | Vboi's Games",
+  "pages.settings": "設定 | Vboi's Games",
 
-  "nav.brand": "Pyrus",
+  "nav.brand": "Vboi's Games",
   "nav.games": "ゲーム",
   "nav.settings": "設定",
 
@@ -21,16 +21,16 @@
   "faq.noBareClients.answer": "このエラーは、通常はプロキシのロードに失敗したことを意味します。ページをリロードするか、GitHubで問題を作成してください。",
 
   "faq.contributeToPyrus": "貢献をするには",
-  "faq.contributeToPyrus.answer.segment1": "Pyrus を広めることは素晴らしいことです。プライベートリンクが必要な場合は、Patreon を通じて私をサポートすることを検討してください。",
+  "faq.contributeToPyrus.answer.segment1": "Vboi's Games を広めることは素晴らしいことです。プライベートリンクが必要な場合は、Patreon を通じて私をサポートすることを検討してください。",
   "faq.contributeToPyrus.answer.patreonLinkText": "ここで私に貢献できます",
-  "faq.contributeToPyrus.answer.segment2": "Pyrusに貢献していただきありがとうございます。",
+  "faq.contributeToPyrus.answer.segment2": "Vboi's Gamesに貢献していただきありがとうございます。",
 
-  "footer.brand": "Pyrus",
+  "footer.brand": "Vboi's Games",
   "footer.madeWithLove": "wearrによる❤️で作られました",
   "footer.poweredBy": "Titanium Network",
   "footer.services": "サービス",
   "footer.socials": "ソーシャル",
-  "footer.aluProject": "Pyrus Project",
+  "footer.aluProject": "Vboi's Games Project",
 
   "games.title": "ゲーム",
   "games.search": "検索...",
