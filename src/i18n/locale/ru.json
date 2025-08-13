@@ -1,15 +1,15 @@
 {
   "ultraviolet": "Ultraviolet",
 
-  "pages.home": "Дом | Pyrus",
-  "pages.games": "Игры | Pyrus",
-  "pages.settings": "Настройки | Pyrus",
+  "pages.home": "Дом | Vboi's Games",
+  "pages.games": "Игры | Vboi's Games",
+  "pages.settings": "Настройки | Vboi's Games",
 
-  "nav.brand": "Pyrus",
+  "nav.brand": "Vboi's Games",
   "nav.games": "Игры",
   "nav.settings": "Настройки",
 
-  "menu.welcome": "Добро пожаловать в Pyrus",
+  "menu.welcome": "Добро пожаловать в Vboi's Games",
   "menu.search": "Искать в Интернете...",
 
   "faq.title": "Часто задаваемые вопросы",
@@ -20,17 +20,17 @@
   "faq.noBareClients": "Что значит \"there are no bare clients.\"?",
   "faq.noBareClients.answer": "Есть несколько причин, по которым возникает эта ошибка, но чаще всего она связана с тем, что прокси не загружается. Пожалуйста, перезагрузите страницу, и если проблема не исчезнет, создайте проблему на GitHub!",
 
-  "faq.contributeToPyrus": "Как я могу внести свой вклад в развитие Pyrus?",
-  "faq.contributeToPyrus.answer.segment1": "Распространение информации об Pyrus - отличное начало, но если вам действительно нравится Pyrus и нужны закрытые ссылки, поддержите меня через Patreon!",
+  "faq.contributeToPyrus": "Как я могу внести свой вклад в развитие Vboi's Games?",
+  "faq.contributeToPyrus.answer.segment1": "Распространение информации об Vboi's Games - отличное начало, но если вам действительно нравится Vboi's Games и нужны закрытые ссылки, поддержите меня через Patreon!",
   "faq.contributeToPyrus.answer.patreonLinkText": "Вы можете поддержать меня здесь!",
-  "faq.contributeToPyrus.answer.segment2": "Спасибо, что помогаете делать Pyrus великой!",
+  "faq.contributeToPyrus.answer.segment2": "Спасибо, что помогаете делать Vboi's Games великой!",
 
-  "footer.brand": "Pyrus",
+  "footer.brand": "Vboi's Games",
   "footer.madeWithLove": "Сделано с ❤️ by wearr",
   "footer.poweredBy": "Titanium Network",
   "footer.services": "Услуги",
   "footer.socials": "Соцсети",
-  "footer.aluProject": "Проект Pyrus",
+  "footer.aluProject": "Проект Vboi's Games",
 
   "games.title": "Игры",
   "games.search": "Поиск...",
