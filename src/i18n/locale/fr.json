@@ -1,9 +1,9 @@
 {
   "ultraviolet": "Ultraviolet",
 
-  "pages.home": "Page d'accueil | Pyrus",
-  "pages.games": "Jeux | Pyrus",
-  "pages.settings": "Préferences | Pyrus",
+  "pages.home": "Page d'accueil | Vboi's Games",
+  "pages.games": "Jeux | Vboi's Games",
+  "pages.settings": "Préferences | Vboi's Games",
 
   "nav.brand": "Pyrus",
   "nav.games": "Jeux",
@@ -20,17 +20,17 @@
   "faq.noBareClients": "Que veut dire \"there are no bare clients.\"?",
   "faq.noBareClients.answer": "Il y a des different causes pour cette erreur, mais c'est souvent à cause d'un erreur avec le proxy. Veuillez recharger la page, et si tu rencontre cette erreur encore, créez un problème sur GitHub!",
 
-  "faq.contributeToPyrus": "Comment est-ce-que je peux contribuer à Pyrus?",
-  "faq.contributeToPyrus.answer.segment1": "Parler à propos Pyrus est un bon début, mais si vous appréciez vraiment Pyrus et veux l'accès aux liens privés pensez à me soutenir avec Patreon.",
+  "faq.contributeToPyrus": "Comment est-ce-que je peux contribuer à Vboi's Games?",
+  "faq.contributeToPyrus.answer.segment1": "Parler à propos Vboi's Games est un bon début, mais si vous appréciez vraiment Vboi's Games et veux l'accès aux liens privés pensez à me soutenir avec Patreon.",
   "faq.contributeToPyrus.answer.patreonLinkText": "Vous pouvez me soutenir ici!",
-  "faq.contributeToPyrus.answer.segment2": "Merci d'aider à faire Pyrus génial!",
+  "faq.contributeToPyrus.answer.segment2": "Merci d'aider à faire Vboi's Games génial!",
 
-  "footer.brand": "Pyrus",
+  "footer.brand": "Vboi's Games",
   "footer.madeWithLove": "Crée avec ❤️ par wearr",
   "footer.poweredBy": "Titanium Network",
   "footer.services": "Services",
   "footer.socials": "Réseaux Sociaux",
-  "footer.aluProject": "le Projet Pyrus",
+  "footer.aluProject": "le Projet Vboi's Games",
 
   "games.title": "Jeux",
   "games.search": "Rechercher...",
