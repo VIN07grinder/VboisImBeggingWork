@@ -1,15 +1,15 @@
 {
   "ultraviolet": "Ultravioleta",
 
-  "pages.home": "Inicio | Pyrus",
+  "pages.home": "Inicio | Vboi's Games",
   "pages.games": "Juegos | Pyrus",
-  "pages.settings": "Configuración | Pyrus",
+  "pages.settings": "Configuración | Vboi's Games",
 
-  "nav.brand": "Pyrus",
+  "nav.brand": "Vboi's Games",
   "nav.games": "Juegos",
   "nav.settings": "Ajustes",
 
-  "menu.welcome": "Bienvenido a Pyrus",
+  "menu.welcome": "Bienvenido a Vboi's Games",
   "menu.search": "Buscar en la web...",
 
   "faq.title": "Preguntas frecuentes",
@@ -20,17 +20,17 @@
   "faq.noBareClients": "¿Qué significa \"there are no bare clients\"?",
   "faq.noBareClients.answer": "Hay un par de razones por las que ocurre este error en particular, pero lo más común es que sea un problema con el proxy que no se carga. Por favor, vuelva a cargar la página y, si el problema persiste, ¡haga un problema de GitHub!",
 
-  "faq.contributeToPyrus": "¿Cómo puedo contribuir a Pyrus?",
-  "faq.contributeToPyrus.answer.segment1": "Correr la voz de Pyrus es un gran comienzo, pero si realmente disfrutas de Pyrus y quieres enlaces privados, ¡considera apoyarme a través de Patreon!",
+  "faq.contributeToPyrus": "¿Cómo puedo contribuir a Vboi's Games?",
+  "faq.contributeToPyrus.answer.segment1": "Correr la voz de Vboi's Games es un gran comienzo, pero si realmente disfrutas de Vboi's Games y quieres enlaces privados, ¡considera apoyarme a través de Patreon!",
   "faq.contributeToPyrus.answer.patreonLinkText": "¡Puedes apoyarme aquí!",
-  "faq.contributeToPyrus.answer.segment2": "¡Gracias por ayudar a hacer que Pyrus sea genial!",
+  "faq.contributeToPyrus.answer.segment2": "¡Gracias por ayudar a hacer que Vboi's Games sea genial!",
 
-  "footer.brand": "Pyrus",
+  "footer.brand": "Vboi's Games",
   "footer.madeWithLove": "Hecho con ❤️ por el usuario",
   "footer.poweredBy": "Titanium Network",
   "footer.services": "Servicios",
   "footer.socials": "Sociales",
-  "footer.aluProject": "Proyecto Pyrus",
+  "footer.aluProject": "Proyecto Vboi's Games",
 
   "games.title": "Juegos",
   "games.search": "Buscar...",
