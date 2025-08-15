@@ -20,7 +20,7 @@
   "faq.noBareClients": "What does \"there are no bare clients\" mean?",
   "faq.noBareClients.answer": "There are a couple reasons this particular error happens, but it's most commonly an issue with the proxy failing to load. Please reload the page, and if the problem persists, make a GitHub issue!",
 
-  "faq.contributeToPyrus": "How can I contribute to Pyrus?",
+  "faq.contributeToPyrus": "How can I contribute to Vboi's Games?",
   "faq.contributeToPyrus.answer.segment1": "You can't :( But you can give me suggestions or ideas for the future! ",
   "faq.contributeToPyrus.answer.patreonLinkText": " You can support me here!",
   "faq.contributeToPyrus.answer.segment2": " Thank you for helping to make Vboi's Games great!",
@@ -50,7 +50,7 @@
 
   "settings.customization": "Customization",
   "settings.customization.theme": "Theme",
-  "settings.customization.theme.Pyrus": "Pyrus",
+  "settings.customization.theme.Pyrus": "Vboi's Games (Default)",
   "settings.customization.theme.Macchiato": "Macchiato",
   "settings.customization.theme.Mocha": "Mocha",
   "settings.customization.language": "Language",
